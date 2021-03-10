@@ -2008,6 +2008,29 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/153
 
 
+EI PLUS
+
+#EXTINF:-1 tvg-id="EI PLUS" tvg-name="EI PLUS" tvg-logo="https://i.ibb.co/N7LGj6C/LOGO-ESPN-BRASIL.png" group-title="ESPORTES",EI PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4676
+
+#EXTINF:-1 tvg-id="EI PLUS" tvg-name="EI PLUS" tvg-logo="https://i.ibb.co/N7LGj6C/LOGO-ESPN-BRASIL.png" group-title="ESPORTES",EI PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/6806
+
+#EXTINF:-1 tvg-id="EI PLUS" tvg-name="EI PLUS" tvg-logo="https://i.ibb.co/N7LGj6C/LOGO-ESPN-BRASIL.png" group-title="ESPORTES",EI PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/488
+
+#EXTINF:-1 tvg-id="EI PLUS" tvg-name="EI PLUS" tvg-logo="https://i.ibb.co/N7LGj6C/LOGO-ESPN-BRASIL.png" group-title="ESPORTES",EI PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/489
+
+#EXTINF:-1 tvg-id="EI PLUS" tvg-name="EI PLUS" tvg-logo="https://i.ibb.co/N7LGj6C/LOGO-ESPN-BRASIL.png" group-title="ESPORTES",EI PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053461
+
+#EXTINF:-1 tvg-id="EI PLUS" tvg-name="EI PLUS" tvg-logo="https://i.ibb.co/N7LGj6C/LOGO-ESPN-BRASIL.png" group-title="ESPORTES",EI PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=
+
+
+
+
 FOX SPORTS
 
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://i.ibb.co/QjVndzn/LOGO-FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS
