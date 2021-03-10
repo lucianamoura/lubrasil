@@ -850,8 +850,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 #EXTINF:-1 tvg-id="AxN" tvg-name="AxN" tvg-logo="https://i.ibb.co/WHGnN3n/LOGO-AxN.png" group-title="FILMES",AxN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5901
 
-#EXTINF:-1 tvg-id="AxN" tvg-name="AxN" tvg-logo="https://i.ibb.co/WHGnN3n/LOGO-AxN.png" group-title="FILMES",
-AxN
+#EXTINF:-1 tvg-id="AxN" tvg-name="AxN" tvg-logo="https://i.ibb.co/WHGnN3n/LOGO-AxN.png" group-title="FILMES",AxN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/116
 
 #EXTINF:-1 tvg-id="AxN" tvg-name="AxN" tvg-logo="https://i.ibb.co/WHGnN3n/LOGO-AxN.png" group-title="FILMES",AxN
