@@ -2248,7 +2248,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 
 
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/playboy1.png",Playboy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/7224.m3u8
+plugin://plugin.video.f4mTester/?name=FERACANAIS&streamtype=HLSRETRY&amp;url=http://p2stv.me:80/live/kleyson/102030/7224.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/playboy1.png",Playboy FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/8436.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/playboy1.png",Playboy FHD [Alter]
