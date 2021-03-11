@@ -2245,245 +2245,246 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 #EXTINF:-1 group-title="EDUCATIVOS",**************EDUCATIVOS******************
 
 
-
-
+#EXTM3U
+#EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/playboy1.png",Playboy
+http://p2stv.me:80/live/kleyson/102030/7224.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/playboy1.png",Playboy FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/7224.m3u8
-#EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/playboy1.png",Playboy FHD
-plugin://plugin.video.f4mTester/?name=FERACANAIS&streamtype=HLSRETRY&amp;url=http://p2stv.me:80/live/kleyson/102030/8436.m3u8
+http://p2stv.me:80/live/kleyson/102030/8436.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/playboy1.png",Playboy FHD [Alter]
-plugin://plugin.video.f4mTester/?name=FERACANAIS&streamtype=HLSRETRY&amp;url=http://p2stv.me:80/live/kleyson/102030/35974.m3u8
+http://p2stv.me:80/live/kleyson/102030/35974.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/playboy1.png",Playboy HD
-plugin://plugin.video.f4mTester/?name=FERACANAIS&streamtype=HLSRETRY&amp;url=http://p2stv.me:80/live/kleyson/102030/26394.m3u8
+http://p2stv.me:80/live/kleyson/102030/26394.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/playboy1.png",Playboy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/2225.m3u8
+http://p2stv.me:80/live/kleyson/102030/2225.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/playboy1.png",Playboy HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/35973.m3u8
+http://p2stv.me:80/live/kleyson/102030/35973.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/playboy1.png",Playboy [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/35972.m3u8
+http://p2stv.me:80/live/kleyson/102030/35972.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/sextreme1.png",Sextreme
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/2196.m3u8
+http://p2stv.me:80/live/kleyson/102030/2196.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/sextreme1.png",Sextreme
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/7223.m3u8
+http://p2stv.me:80/live/kleyson/102030/7223.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/sextreme1.png",Sextreme HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/26382.m3u8
+http://p2stv.me:80/live/kleyson/102030/26382.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/sextreme1.png",Sextreme HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/35976.m3u8
+http://p2stv.me:80/live/kleyson/102030/35976.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/sextreme1.png",Sextreme [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/35975.m3u8
+http://p2stv.me:80/live/kleyson/102030/35975.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/sexyhot.png",Sexy Hot
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/2195.m3u8
+http://p2stv.me:80/live/kleyson/102030/2195.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/sexyhot.png",Sexy Hot
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/7222.m3u8
+http://p2stv.me:80/live/kleyson/102030/7222.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/sexyhot.png",Sexy Hot HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/26381.m3u8
+http://p2stv.me:80/live/kleyson/102030/26381.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/sexyhot.png",Sexy Hot HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/35978.m3u8
+http://p2stv.me:80/live/kleyson/102030/35978.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/sexyhot.png",Sexy Hot [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/35977.m3u8
+http://p2stv.me:80/live/kleyson/102030/35977.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/venus1.png",Venus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/2147.m3u8
+http://p2stv.me:80/live/kleyson/102030/2147.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/venus1.png",Venus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/7221.m3u8
+http://p2stv.me:80/live/kleyson/102030/7221.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/venus1.png",Venus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/26378.m3u8
+http://p2stv.me:80/live/kleyson/102030/26378.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/venus1.png",Venus HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/35980.m3u8
+http://p2stv.me:80/live/kleyson/102030/35980.m3u8
 #EXTINF:-1 group-title="Canais: Adultos" tvg-logo="http://logocanais.ddns.net/Logo/venus1.png",Venus [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/live/kleyson/102030/35979.m3u8
+http://p2stv.me:80/live/kleyson/102030/35979.m3u8
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/2.png",Adulto: A Very Merry Bareback Christmas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12605.mp4
+http://p2stv.me:80/movie/kleyson/102030/12605.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/2.png",Adulto: Bareback Leather Fuck Fest
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12597.mp4
+http://p2stv.me:80/movie/kleyson/102030/12597.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Logo/xx.jpg",Adulto: BCM  Busty Babe Loves Black Cock
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12403.mp4
+http://p2stv.me:80/movie/kleyson/102030/12403.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Logo/xx.jpg",Adulto: Brazzers  Ashley Misty
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12406.mp4
+http://p2stv.me:80/movie/kleyson/102030/12406.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://pornotorrent.com.br/wp-content/uploads/2015/07/porno-torrent-carnaval-folia-2005-buttman.jpg",Adulto: Buttman - Carnaval Folia 2005
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/9990.mp4
+http://p2stv.me:80/movie/kleyson/102030/9990.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://pornotorrent.com.br/wp-content/uploads/2015/07/porno-torrent-puro-prazer-2-buttman.jpg",Adulto: Buttman - Puro Prazer 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/9988.mp4
+http://p2stv.me:80/movie/kleyson/102030/9988.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://pornotorrent.com.br/wp-content/uploads/2015/07/porno-torrent-tour-porto-alegre-buttman.jpg",Adulto: Buttman - Tour Porto Alegre
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/9989.mp4
+http://p2stv.me:80/movie/kleyson/102030/9989.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me:8880/images/w90cORtNWQAd2k93aFlIBbpQYTC_small.jpg",Adulto: Festa da Salsicha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/9819.mp4
+http://p2stv.me:80/movie/kleyson/102030/9819.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Logo/xx.jpg",Adulto: GloryHole Stella Cox and Jade Jantzen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12409.mp4
+http://p2stv.me:80/movie/kleyson/102030/12409.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Logo/xx.jpg",Adulto: HarmonyVision Bentley And Stella Cox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12412.mp4
+http://p2stv.me:80/movie/kleyson/102030/12412.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/2.png",Adulto: His Sons Best Friend
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12606.mp4
+http://p2stv.me:80/movie/kleyson/102030/12606.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Logo/xx.jpg",Adulto: Little Caprice Gaping For My Husband s Boss
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12404.mp4
+http://p2stv.me:80/movie/kleyson/102030/12404.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Logo/xx.jpg",Adulto: LittleCaprice Dreams  Little Caprice
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12408.mp4
+http://p2stv.me:80/movie/kleyson/102030/12408.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Logo/xx.jpg",Adulto: LittleCaprice Dreams Caprice
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12405.mp4
+http://p2stv.me:80/movie/kleyson/102030/12405.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Logo/xx.jpg",Caprice
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12410.mp4
+http://p2stv.me:80/movie/kleyson/102030/12410.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Logo/xx.jpg",Adulto: LittleCapriceDreams School Girl Webcam Show
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12407.mp4
+http://p2stv.me:80/movie/kleyson/102030/12407.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/2.png",Adulto: Mike Colucci And Harry Louis
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12602.mp4
+http://p2stv.me:80/movie/kleyson/102030/12602.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Logo/xx.jpg",Adulto: Mofos Public Pick Ups Armenian Babe Gets Cum in Her Eye
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12402.mp4
+http://p2stv.me:80/movie/kleyson/102030/12402.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me:8880/images/49HMMZPVJcnUwe2QmVzBfxyLAY2_small.jpg",Adulto: Ninfomaníaca Vol. 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/10414.mp4
+http://p2stv.me:80/movie/kleyson/102030/10414.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me:8880/images/2FBFiDhx3tGe8PG4A5iuCbeIJ4s_small.jpg",Adulto: Ninfomaníaca Vol. 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/10415.mp4
+http://p2stv.me:80/movie/kleyson/102030/10415.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Logo/xx.jpg",Adulto: PornFidelity Stella Cox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12411.mp4
+http://p2stv.me:80/movie/kleyson/102030/12411.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/2.png",Adulto: The Drae Axtell Collection
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12598.mp4
+http://p2stv.me:80/movie/kleyson/102030/12598.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: 1 Contos Eroticos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12413.mp4
+http://p2stv.me:80/movie/kleyson/102030/12413.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: 11 Mulheres e Nenhum Segredo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7078.mp4
+http://p2stv.me:80/movie/kleyson/102030/7078.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: 2 Contos Eroticos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12415.mp4
+http://p2stv.me:80/movie/kleyson/102030/12415.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: 3 Contos Eroticos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12416.mp4
+http://p2stv.me:80/movie/kleyson/102030/12416.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: 4 Contos Eroticos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12419.mp4
+http://p2stv.me:80/movie/kleyson/102030/12419.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: A Campea Do Anal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7025.mp4
+http://p2stv.me:80/movie/kleyson/102030/7025.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Academia das Maravilhas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7048.mp4
+http://p2stv.me:80/movie/kleyson/102030/7048.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Agora é Hora das Poderosas 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7035.mp4
+http://p2stv.me:80/movie/kleyson/102030/7035.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Que Do
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7066.mp4
+http://p2stv.me:80/movie/kleyson/102030/7066.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Amigas da Minha Irma 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7039.mp4
+http://p2stv.me:80/movie/kleyson/102030/7039.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Amigas da Minha Irma 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7024.mp4
+http://p2stv.me:80/movie/kleyson/102030/7024.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Anal Total 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7072.mp4
+http://p2stv.me:80/movie/kleyson/102030/7072.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: As Mina Pira na Pica dos Meninos 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7041.mp4
+http://p2stv.me:80/movie/kleyson/102030/7041.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: As Mina Pira na Pica dos Meninos 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7027.mp4
+http://p2stv.me:80/movie/kleyson/102030/7027.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Assim Voce Me Mata 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7021.mp4
+http://p2stv.me:80/movie/kleyson/102030/7021.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Assim Voce Me Mata 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7046.mp4
+http://p2stv.me:80/movie/kleyson/102030/7046.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Babando de Tesao
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7069.mp4
+http://p2stv.me:80/movie/kleyson/102030/7069.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Big Mack 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7020.mp4
+http://p2stv.me:80/movie/kleyson/102030/7020.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Big Mack 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7028.mp4
+http://p2stv.me:80/movie/kleyson/102030/7028.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Brasibelezas - Vol. 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7038.mp4
+http://p2stv.me:80/movie/kleyson/102030/7038.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Cafetao
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7026.mp4
+http://p2stv.me:80/movie/kleyson/102030/7026.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Carnaval 2008
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7055.mp4
+http://p2stv.me:80/movie/kleyson/102030/7055.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Carnaval 2013
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7060.mp4
+http://p2stv.me:80/movie/kleyson/102030/7060.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Carnaval com Gretchen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7022.mp4
+http://p2stv.me:80/movie/kleyson/102030/7022.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Carol Fodeu E Levou Gozada Na Boca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12414.mp4
+http://p2stv.me:80/movie/kleyson/102030/12414.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Casal no Pau 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7068.mp4
+http://p2stv.me:80/movie/kleyson/102030/7068.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Celebridade em Foco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7057.mp4
+http://p2stv.me:80/movie/kleyson/102030/7057.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Clube Prive 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7040.mp4
+http://p2stv.me:80/movie/kleyson/102030/7040.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Clube Prive 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7023.mp4
+http://p2stv.me:80/movie/kleyson/102030/7023.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Com Vergonha de Dar o Rabo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7030.mp4
+http://p2stv.me:80/movie/kleyson/102030/7030.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Como Fazer uma Mulher Gozar Muito
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7079.mp4
+http://p2stv.me:80/movie/kleyson/102030/7079.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Confissoes Relatos de Mulheres Fogosas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7075.mp4
+http://p2stv.me:80/movie/kleyson/102030/7075.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Debutantes 2008
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7062.mp4
+http://p2stv.me:80/movie/kleyson/102030/7062.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Depois dos 40
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7043.mp4
+http://p2stv.me:80/movie/kleyson/102030/7043.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Depois dos 40 -2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7018.mp4
+http://p2stv.me:80/movie/kleyson/102030/7018.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Estrelas em Busca de Prazer
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7070.mp4
+http://p2stv.me:80/movie/kleyson/102030/7070.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Eu Sei Fazer Um Le Le Le!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7037.mp4
+http://p2stv.me:80/movie/kleyson/102030/7037.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Familia Incestuosa 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7034.mp4
+http://p2stv.me:80/movie/kleyson/102030/7034.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Fazendo Gang Bang Ao Vivo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12401.mp4
+http://p2stv.me:80/movie/kleyson/102030/12401.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Fazendo Sacanagem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7044.mp4
+http://p2stv.me:80/movie/kleyson/102030/7044.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Foda Me 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7071.mp4
+http://p2stv.me:80/movie/kleyson/102030/7071.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Foi Daquele Jeito 2013
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7047.mp4
+http://p2stv.me:80/movie/kleyson/102030/7047.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Fome de Sexo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7080.mp4
+http://p2stv.me:80/movie/kleyson/102030/7080.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Forum 27
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7019.mp4
+http://p2stv.me:80/movie/kleyson/102030/7019.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Gravando Com 2 Negoes Bem Dotados Angel Lima
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12418.mp4
+http://p2stv.me:80/movie/kleyson/102030/12418.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Historias de uma Gueixa 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7081.mp4
+http://p2stv.me:80/movie/kleyson/102030/7081.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Invasao de Privacidade
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7074.mp4
+http://p2stv.me:80/movie/kleyson/102030/7074.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Julia Paes vs Regininha Poltergeist
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7017.mp4
+http://p2stv.me:80/movie/kleyson/102030/7017.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Louca Pra Dar o Cu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7061.mp4
+http://p2stv.me:80/movie/kleyson/102030/7061.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Louquinha 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7042.mp4
+http://p2stv.me:80/movie/kleyson/102030/7042.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Louquinha 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7015.mp4
+http://p2stv.me:80/movie/kleyson/102030/7015.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Maria Chuteira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7050.mp4
+http://p2stv.me:80/movie/kleyson/102030/7050.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Mas Que Beleza
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7053.mp4
+http://p2stv.me:80/movie/kleyson/102030/7053.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Ninfetas Gulosas 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7016.mp4
+http://p2stv.me:80/movie/kleyson/102030/7016.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Novatas do Porno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7076.mp4
+http://p2stv.me:80/movie/kleyson/102030/7076.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: O Fenomeno Voltou
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7067.mp4
+http://p2stv.me:80/movie/kleyson/102030/7067.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: O Rei das Mulheres
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7063.mp4
+http://p2stv.me:80/movie/kleyson/102030/7063.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: O Show de Luanda Boaz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7045.mp4
+http://p2stv.me:80/movie/kleyson/102030/7045.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Paraíso das Bundas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7064.mp4
+http://p2stv.me:80/movie/kleyson/102030/7064.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Pecadora
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7059.mp4
+http://p2stv.me:80/movie/kleyson/102030/7059.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Quinteto Sexual
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7049.mp4
+http://p2stv.me:80/movie/kleyson/102030/7049.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Redondinho de 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7032.mp4
+http://p2stv.me:80/movie/kleyson/102030/7032.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Regininha PolterGeist
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7077.mp4
+http://p2stv.me:80/movie/kleyson/102030/7077.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Salada De Frutas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7065.mp4
+http://p2stv.me:80/movie/kleyson/102030/7065.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Segredos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7033.mp4
+http://p2stv.me:80/movie/kleyson/102030/7033.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Show de Bundas 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7054.mp4
+http://p2stv.me:80/movie/kleyson/102030/7054.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Show De Bundas Vol. 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7031.mp4
+http://p2stv.me:80/movie/kleyson/102030/7031.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Show De Bundas Vol. 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7029.mp4
+http://p2stv.me:80/movie/kleyson/102030/7029.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Show de Orgias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7051.mp4
+http://p2stv.me:80/movie/kleyson/102030/7051.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Teste de Atriz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/12417.mp4
+http://p2stv.me:80/movie/kleyson/102030/12417.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Trepada Interracial
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7073.mp4
+http://p2stv.me:80/movie/kleyson/102030/7073.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Vizinhas Gostosas 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7082.mp4
+http://p2stv.me:80/movie/kleyson/102030/7082.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas: Yumi Saito vs. a Nova Fernandinha Fernandez
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7036.mp4
+http://p2stv.me:80/movie/kleyson/102030/7036.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas:5 Vezes Mais Sexo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7056.mp4
+http://p2stv.me:80/movie/kleyson/102030/7056.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas:Triplex Anal 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7058.mp4
+http://p2stv.me:80/movie/kleyson/102030/7058.mp4
 #EXTINF:-1 group-title="Filmes: Adultos" tvg-logo="http://listaccess.me/Capas/Brasileirinhas.jpg",Brasileirinhas:Turbinadas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://p2stv.me:80/movie/kleyson/102030/7052.mp4
+http://p2stv.me:80/movie/kleyson/102030/7052.mp4
+
+
